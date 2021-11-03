@@ -18,6 +18,5 @@ Swagger UI was injected in Startup.cs file as integrated solution.
 Click on "Get" or "Post" method and then click on "Try it out"
 
 After that, If it is GET, click on Execute button to get the response.
+If it is a POST method, give the body content and click on execute.
 
-If it is a POST method, Give the body content and click on execute.
--- 
